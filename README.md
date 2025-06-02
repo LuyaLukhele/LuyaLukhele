@@ -11,7 +11,7 @@
 <br>
 
 I am a full-stack developer with experience in both front-end and back-end development.
-I am always looking to expand my skillset and stay up-to-date with the latest developments in technologies. I am dedicated to continuously learning and improving my development skills to provide the best possible solutions for users.
+I'm currently upskilling in data engineering, always looking to expand my skillset and stay up-to-date with the latest developments in technologies. I'm dedicated to continuously learning and improving my development skills to provide the best possible solutions for users.
 
 <br><br>
 
